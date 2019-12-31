@@ -32,7 +32,7 @@ foreach ( $data AS $enr )
 // On compte les articles, et on en choisi un au hasard entre le premier et le dernier
 
 $totalArticle = count($tab);
-$idArticle = rand(tab[0],$totalArticle);
+$idArticle = rand($tab[0],$totalArticle);
 
 // Here, you move towards the random article.
 header("Refresh: 0;URL=index.php?option=com_content&view=article&id=".$tab[$idArticle]);
