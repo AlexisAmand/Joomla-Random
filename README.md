@@ -6,8 +6,7 @@ Le fichier randomsansapi.php récupére quant à lui les infos dans le fichier d
 Bien sûr, vous pouvez renommer le fichier si vous en avez envie. 
 Il faut juste bien penser à lui laisser l'extension ".php".
 
-C'est la première fois que j'utilise l'API de Joomla !
-J'ai fait des tests avec la version 3.9 de Joomla.
+C'est la première fois que j'utilise l'API de Joomla ! D'aprés les tests que j'ai fait pour le moment, le script fonnctionne avec la version 3.9 mais pas avec la version 1.5 de Joomla.
 
 Comment ça marche ?
 -------------------
