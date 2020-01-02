@@ -1,12 +1,11 @@
 Joomla Random est un petit script qui vous permet d'afficher un article de votre blog tournant sous joomla de façon de façon aléatoire.
 
-Je recommande d'utiliser le fichier random.php qui utilise l'api de joomla.
-Le fichier randomsansapi.php récupére quant à lui les infos dans le fichier de configuration, ça fonctionne et donne le même résultat, mais c'est moins fun.
+Je recommande d'utiliser le fichier random.php qui utilise l'api de joomla. Le fichier randomsansapi.php récupére quant à lui les infos dans le fichier de configuration, ça fonctionne et donne le même résultat, mais c'est moins fun. Bien sûr, vous pouvez renommer le fichier si vous en avez envie. Il faut juste bien penser à lui laisser l'extension ".php".
 
-Bien sûr, vous pouvez renommer le fichier si vous en avez envie. 
-Il faut juste bien penser à lui laisser l'extension ".php".
 
-C'est la première fois que j'utilise l'API de Joomla ! D'aprés les tests que j'ai fait pour le moment, le script fonnctionne avec la version 3.9 mais pas avec la version 1.5 de Joomla.
+C'est la première fois que j'utilise l'API de Joomla ! 
+
+D'après les tests que j'ai faits pour le moment, le script fonctionne avec la version 3.9 mais pas avec la version 1.5 de Joomla.
 
 Comment ça marche ?
 -------------------
