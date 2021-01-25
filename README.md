@@ -1,22 +1,20 @@
-Joomla Random est un petit script qui vous permet d'afficher un article de votre blog tournant sous joomla de façon de façon aléatoire.
+A small PHP script that allows you to display a random article from your Joomla blog
 
-Je recommande d'utiliser le fichier random.php qui utilise l'api de joomla. Le fichier randomsansapi.php récupére quant à lui les infos dans le fichier de configuration, ça fonctionne et donne le même résultat, mais c'est moins fun. Bien sûr, vous pouvez renommer le fichier si vous en avez envie. Il faut juste bien penser à lui laisser l'extension ".php".
+I recommend using the random.php file that uses the joomla api. The randomsansapi.php file retrieves the information in the configuration file, it works and gives the same result, but it's less fun. Of course, you can rename the file if you feel like it. You just have to remember to leave the extension ".php".
 
+This is the first time I use the Joomla! API.
 
-C'est la première fois que j'utilise l'API de Joomla ! 
+According to the tests I have done so far, the script works with version 3.9 but not with version 1.5 of Joomla.
 
-D'après les tests que j'ai faits pour le moment, le script fonctionne avec la version 3.9 mais pas avec la version 1.5 de Joomla.
+How does it work ?
+------------------
 
-Comment ça marche ?
--------------------
-
-Il suffit de télécharger le fichier random.php, et de le mettre à la racine de votre installation Joomla.
-Par exemple : www.monsitehypercool.com/joomla/ (ne cliquez pas c'est juste un exemple)
+Just download the random.php file, and put it at the root of your Joomla installation. 
+For example : www.monsitehypercool.com/joomla/ (don't click it's just an example)
 
 Demo
 ----
 
-Ce script est en demo sur mon site perso (Joomla 3.9) à l'adresse suivante. 
-C'est un peu comme à la roulette russe, soit vous tombez sur un article hyper cool, soit vous tombez sur un article nul.
+This script is in demo on my personal website (Joomla 3.9) at the following address. It's a bit like Russian roulette, either you stumble upon a very cool article, or you stumble upon a bad one.
 
 http://www.genealexis.fr/random.php
